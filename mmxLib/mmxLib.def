@@ -1,0 +1,3 @@
+LIBRARY mmxLib
+EXPORTS
+mmxProc
